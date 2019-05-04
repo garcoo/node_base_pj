@@ -14,4 +14,6 @@ express -e node_base_pj
 ## config配下はdefault.yamlのみgit管理
 .gitignoreに以下を追加
 
-!/.config/default.yaml
+/config/*
+
+!/config/default.yaml
