@@ -1,0 +1,5 @@
+datasource:
+  host: 'XXX.XXX.XXX.XXX'
+  db: dbname
+  user: user name
+  password: pw
