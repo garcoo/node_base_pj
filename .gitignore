@@ -1,2 +1,4 @@
 # defaultだけ管理対象
+bin/
+config/
 !/.config/default.yaml
