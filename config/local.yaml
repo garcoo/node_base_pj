@@ -3,3 +3,6 @@ datasource:
   db: dbname
   user: user name
   password: pw
+api:
+  chatwork-url: https;~~~
+  api-key: ccxxzz
