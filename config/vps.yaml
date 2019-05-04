@@ -1,8 +1,5 @@
 datasource:
-  host: 'XXX.XXX.XXX.XXX'
-  db: dbname
-  user: user name
-  password: pw
-api:
-  chatwork-url: https;~~~
-  api-key: ccxxzz
+  host: 'XXX.XXX.XXX.XXX' # 起動shellに設定
+  db: dbname # 起動shellに設定
+  user: user name # 起動shellに設定
+  password: pw # 起動shellに設定
