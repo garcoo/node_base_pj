@@ -1,4 +1,4 @@
 # defaultだけ管理対象
 
-#/config/*
-#!/config/default.yaml
+/config/*
+!/config/default.yaml
